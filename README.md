@@ -1,2 +1,2 @@
 # Repossee
-Entity Framework Repository for C#
+Entity Framework Generic Repository for C#
